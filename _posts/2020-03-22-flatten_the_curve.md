@@ -36,8 +36,6 @@ Extraordinary times call for an extraordinary response. Let us volunteer this in
 
 Singapore has [an app for this](https://www.gov.sg/article/help-speed-up-contact-tracing-with-tracetogether).
 
-### References
-
 
 
 
