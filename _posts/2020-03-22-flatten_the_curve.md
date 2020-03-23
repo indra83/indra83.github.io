@@ -1,4 +1,4 @@
-# Let’s trade some privacy to flatten the curve
+# Let’s trade some privacy for a flatter curve
 
 
 Unchecked, the novel corona virus spreads rapidly and has shown to quickly overwhelm even one of the best healthcare systems in the world. As explained [in this blog post](https://www.fast.ai/2020/03/09/coronavirus/):
