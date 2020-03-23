@@ -28,7 +28,7 @@ The strategy is also [recommended by WHO](https://www.aljazeera.com/news/2020/03
 
 ## Can we do better?
 
-Tracing can be significantly improved with *all of us* having a simple app that tracks location - using the GPS, Bluetooth and WiFi signals. This location information can then be pushed to a server. The moment someone tests +ve, everyone who have come in contact can be alerted, and tested.
+Tracing can be significantly improved with *most of us* having a simple app that tracks location - using the GPS, Bluetooth and WiFi signals. This location information can then be pushed to a server. The moment someone tests +ve, everyone who have come in contact can be alerted, and tested. Note: The app need not have to be installed on every phone for the strategy to be effective, the more people have it the flatter the curve.
 
 Humans will survive this pandemic. Whether humanity survives or not depends on our actions - how we take care of the economically vulnerable; and how we fight for the physically vulnerable.
 
@@ -39,7 +39,8 @@ Singapore has [an app for this](https://www.gov.sg/article/help-speed-up-contact
 
 
 
-
+Edits:
+Added note regarding install coverage and effectiveness.
 
 
 
